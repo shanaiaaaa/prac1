@@ -17,5 +17,9 @@ public class demo1 {
 	void display2() {
 		System.out.println("branch 2");
 	}
+	
+	void display3() {
+		System.out.println("branch 3");
+	}
 
 }
